@@ -1,2 +1,2 @@
 # Machine-Learning-Model
-Basic machine learning model practcie
+EECS 545 HW buiding ML model with Python
